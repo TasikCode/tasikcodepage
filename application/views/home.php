@@ -81,7 +81,7 @@
                     COLLABORATIVE<br>ENVIRONMENT</h1>
                 
                 <p class="mbr-text pb-3 mbr-fonts-style display-5">kami percaya sesuatu yang dibangun oleh banyak komponen<br>bisa bekerja lebih baik</p>
-                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="https://mobirise.co">JOIN US</a></div>
+                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="https://tasikcode.xyz/join">JOIN US</a></div>
             </div>
         </div>
     </div>
@@ -132,7 +132,7 @@
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
                         TERBUKA</h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                       TasikCode adalah sebuah wadah terbuka, siapa saja boleh ikut nimbrung disini, sekalipun kami adalah pengrajin kode didepan komputer tapi kami juga senang bergaul dengan anak band atau fans drama korea supaya bisa terlihat normal. Join us.
+                       TasikCode adalah sebuah wadah terbuka, siapa saja boleh ikut nimbrung disini, sekalipun kami adalah pengrajin kode didepan komputer tapi kami juga senang bergaul dengan anak band atau fans drama korea supaya bisa terlihat normal. <<a href="https://tasikcode.xyz/join" target="_blank">Join us.</a>
                     </p>
                 </div>
             </div>
@@ -145,7 +145,7 @@
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
                         PRODUKTIF</h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                       Bukan sekedar kumpul-kumpul, kami punya community project yang terus berkembang dari waktu ke waktu sebagai upaya kami untuk memberikan kontribusi positif terhadap masyarakat Tasikmalaya. Lihat Repositori GitHub
+                       Bukan sekedar kumpul-kumpul, kami punya community project yang terus berkembang dari waktu ke waktu sebagai upaya kami untuk memberikan kontribusi positif terhadap masyarakat Tasikmalaya. <a href="https://github.com/TasikCode" target="_blank">Lihat Repositori GitHub</a>
                     </p>
                 </div>
             </div>
@@ -212,7 +212,7 @@
                 <h5 class="pb-3">
                     Links
                 </h5>
-                <p class="mbr-text">GitHub Repo<br></p>
+                <p class="mbr-text"><a href="https://github.com/TasikCode" target="_blank">GitHub Repo</a><br></p>
             </div>
         </div>
         <div class="footer-lower">
