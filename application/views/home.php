@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v4.10.10, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="<?php echo base_url();?>assets/images/tasik-code-logo1-350x150.png" type="image/x-icon">
+  <link rel="shortcut icon" href="<?php echo base_url();?>assets/img/tasik_code_logo.ico" type="image/x-icon">
   <meta name="description" content="Tasikmalaya Code Enthusiast Hub">
   
   <title>TasikCode -  Tasikmalaya Code Enthusiast Hub</title>
