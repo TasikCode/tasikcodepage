@@ -18,7 +18,7 @@ class Page extends CI_Controller {
 	{
 		$this->load->view('template/head');
 		$this->load->view('page/join');
-		$this->load->view('tempate/foot');
+		$this->load->view('template/foot');
 	}
 
 }
