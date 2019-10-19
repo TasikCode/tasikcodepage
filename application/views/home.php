@@ -14,7 +14,7 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="https://tasikcode.xyz">
+                    <a href="<?= base_url()  ?>">
                          <img src="<?php echo base_url();?>assets/images/tasik-code-logo1-350x150.png" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
@@ -23,12 +23,12 @@
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="https://tasikcode.xyz/page/event"><span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>
+                    <a class="nav-link link text-white display-4" href="<?= base_url('event')  ?>"><span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>
                         
                         Event</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="https://tasikcode.xyz/page/about">
+                    <a class="nav-link link text-white display-4" href="<?= base_url('about') ?>">
                         <span class="mbri-search mbr-iconfont mbr-iconfont-btn"></span>
                         About Us
                     </a>
@@ -51,7 +51,7 @@
                     COLLABORATIVE<br>ENVIRONMENT</h1>
                 
                 <p class="mbr-text pb-3 mbr-fonts-style display-5">kami percaya sesuatu yang dibangun oleh banyak komponen<br>bisa bekerja lebih baik</p>
-                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="https://tasikcode.xyz/join">JOIN US</a></div>
+                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="<?= base_url('join') ?>">JOIN US</a></div>
             </div>
         </div>
     </div>
