@@ -53,7 +53,13 @@
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
+              <li class="nav-item">
+                    <a class="nav-link link text-white display-4" href="https://blog.tasikcode.xyz"><span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>
+                        
+                        Blog</a>
+                </li>
+              <li class="nav-item">
                     <a class="nav-link link text-white display-4" href="https://tasikcode.xyz/page/event"><span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>
                         
                         Event</a>
