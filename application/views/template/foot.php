@@ -31,6 +31,7 @@
                     Links
                 </h5>
                 <p class="mbr-text"><a href="https://github.com/TasikCode" target="_blank">GitHub Repo</a><br></p>
+                <p class="mbr-text"><a href="https://blog.tasikcode.xyz" target="_blank">Read Our Blog</a><br></p>
             </div>
         </div>
         <div class="footer-lower">

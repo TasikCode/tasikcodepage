@@ -11,7 +11,7 @@
                     COLLABORATIVE<br>ENVIRONMENT</h1>
                 
                 <p class="mbr-text pb-3 mbr-fonts-style display-5">kami percaya sesuatu yang dibangun oleh banyak komponen<br>bisa bekerja lebih baik</p>
-                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="https://tasikcode.xyz/join">JOIN US</a></div>
+                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="https://tasikcode.xyz/page/join">JOIN US</a></div>
             </div>
         </div>
     </div>
