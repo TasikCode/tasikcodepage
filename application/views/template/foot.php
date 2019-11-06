@@ -32,6 +32,7 @@
                 </h5>
                 <p class="mbr-text"><a href="https://github.com/TasikCode" target="_blank">GitHub Repo</a><br></p>
                 <p class="mbr-text"><a href="https://blog.tasikcode.xyz" target="_blank">Read Our Blog</a><br></p>
+                <p class="mbr-text"><a href="https://open.spotify.com/show/2WCK5c97PBdD7qepGnpxRu" target="_blank">Our Podcast</a><br></p>
             </div>
         </div>
         <div class="footer-lower">
