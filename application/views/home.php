@@ -62,7 +62,7 @@
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
                         TERBUKA</h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                       TasikCode adalah sebuah wadah terbuka, siapa saja boleh ikut nimbrung disini, sekalipun kami adalah pengrajin kode didepan komputer tapi kami juga senang bergaul dengan anak band atau fans drama korea supaya bisa terlihat normal. <a href="https://anchor.fm/tasikcode" target="_blank">Join us.</a>
+                       TasikCode adalah sebuah wadah terbuka, siapa saja boleh ikut nimbrung disini, sekalipun kami adalah pengrajin kode didepan komputer tapi kami juga senang bergaul dengan anak band atau fans drama korea supaya bisa terlihat normal. <a href="https://tasikcode.slack.com" target="_blank">Join us.</a>
                     </p>
                 </div>
             </div>
