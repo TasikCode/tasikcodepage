@@ -55,21 +55,24 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
               <li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="https://blog.tasikcode.xyz"><span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>
-                        
-                        Blog</a>
-                </li>
+                <a class="nav-link link text-white display-4" href="https://blog.tasikcode.xyz" target="_blank">
+                  <span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>Blog
+                </a>
+              </li>
               <li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="https://tasikcode.xyz/page/event"><span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>
-                        
-                        Event</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="https://tasikcode.xyz/page/about">
-                        <span class="mbri-search mbr-iconfont mbr-iconfont-btn"></span>
-                        About Us
-                    </a>
-                </li></ul>
+              <a class="nav-link link text-white display-4" href="https://tasikcode.xyz/page/event">
+                <span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>Event
+              </a>
+              <a class="nav-link link text-white display-4" href="https://anchor.fm/tasikcode" target="_blank">
+                <span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>Podcast
+              </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link link text-white display-4" href="https://tasikcode.xyz/page/about" target="_blank">
+                <span class="mbri-search mbr-iconfont mbr-iconfont-btn"></span>About Us
+                </a>
+              </li>
+            </ul>
             
         </div>
     </nav>
