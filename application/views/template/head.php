@@ -63,6 +63,8 @@
               <a class="nav-link link text-white display-4" href="https://tasikcode.xyz/page/event">
                 <span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>Event
               </a>
+              </li>
+              <li class="nav-item">
               <a class="nav-link link text-white display-4" href="https://anchor.fm/tasikcode" target="_blank">
                 <span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>Podcast
               </a>
