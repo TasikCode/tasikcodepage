@@ -69,6 +69,11 @@
                 </a>
               </li>
               <li class="nav-item">
+              <a class="nav-link link text-white display-4" href="https://remotework.tasikcode.xyz">
+                <span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>Remote Work
+              </a>
+              </li>
+              <li class="nav-item">
               <a class="nav-link link text-white display-4" href="https://tasikcode.xyz/page/event">
                 <span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>Event
               </a>
