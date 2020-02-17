@@ -55,7 +55,7 @@
                             </a>
                         </div>
                         <div class="soc-item">
-                            <a href="https://www.facebook.com/pages/TasikCode" target="_blank">
+                            <a href="https://www.facebook.com/TasikCode" target="_blank">
                                 <span class="socicon-facebook socicon mbr-iconfont mbr-iconfont-social"></span>
                             </a>
                         </div>
