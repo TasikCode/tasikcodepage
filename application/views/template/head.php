@@ -74,6 +74,11 @@
               </a>
               </li>
               <li class="nav-item">
+              <a class="nav-link link text-white display-4" href="https://baraya.tasikcode.xyz">
+                <span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>Baraya
+              </a>
+              </li>
+              <li class="nav-item">
               <a class="nav-link link text-white display-4" href="https://tasikcode.xyz/page/event">
                 <span class="mbri-alert mbr-iconfont mbr-iconfont-btn"></span>Event
               </a>
